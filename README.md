@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡⚡⚡ Fun fact: ...
 -->
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gkim360/)](https://www.linkedin.com/in/keithczq/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gkim360/)](https://www.linkedin.com/in/keithczq/) [![Blog Badge](https://img.shields.io/badge/dev-blog-green?style=flat-square&logo=github&link=https://miknai.github.io/)](https://keithczq.github.io/)
 
-[![Blog Badge](https://img.shields.io/badge/dev-blog-green?style=flat-square&logo=github&link=https://miknai.github.io/)](https://keithczq.github.io/)
+Greetings! My name is Keith Chua and I am from Singapore🇸🇬. I currently work as a Software Engineer at Electronic Arts in Silicon Valley👨🏻‍💻.
 
 **About me!**
 
-- 💻 I’m currently working on building a chatbot that talks like me!;
+- 💻 I’m currently working on building a <a href="https://github.com/keithczq/keithjsbot"> chatbot</a> that talks like me!;
 - 🌱 I’m currently learning Machine Learning and Tensorflow;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun fact: I am immune to caffeine! ☕️;
