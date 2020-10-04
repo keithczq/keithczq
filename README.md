@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gkim360/)](https://www.linkedin.com/in/keithczq/) [![Blog Badge](https://img.shields.io/badge/dev-blog-green?style=flat-square&logo=github&link=https://miknai.github.io/)](https://keithczq.github.io/)
 
-Greetings! My name is Keith Chua and I am from Singapore🇸🇬. I currently work as a Software Engineer at Electronic Arts in Silicon Valley👨🏻‍💻.
+Greetings! My name is Keith Chua and I am from Singapore🇸🇬 I am currently working as a Software Engineer at Electronic Arts in Silicon Valley👨🏻‍💻
 
 **About me!**
 
