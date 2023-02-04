@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 Greetings! My name is Keith Chua and I am from Singapore🇸🇬
 
-I am currently working as a Software Engineer at Electronic Arts in Silicon Valley👨🏻‍💻
+I am currrently working as a R&D Data Scientist @ PatSnap with a focus on NLP tasks!👨🏻‍💻
+
+~~I am currently working as a Software Engineer at Electronic Arts in Silicon Valley👨🏻‍💻
 
 **About me!**
 
